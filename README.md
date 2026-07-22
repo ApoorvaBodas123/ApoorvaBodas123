@@ -18,13 +18,5 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ApoorvaBodas123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
